@@ -1,0 +1,24 @@
+{
+  "name": "github-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parthshah01/github-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parthshah01/github-bot/issues"
+  },
+  "homepage": "https://github.com/parthshah01/github-bot#readme",
+  "dependencies": {
+    "jsonfile": "^6.0.1",
+    "moment": "^2.27.0",
+    "simple-git": "^2.17.0"
+  }
+}
